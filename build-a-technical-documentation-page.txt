@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+  <html lang="en">
+      <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Build a Technical Documentation Page</title>
+<link rel="stylesheet" href="styles.css">
+<a href="styles.css" id="build_a_technical_documentation_page" target="_blank"></a>
+  </head>
+    <body>
+<div id="side-nav">
+<nav id="navbar">
+<header id="head" align="left">Perfume Lovers</header>
+<li><a class="nav-link" 
+href="#News">News</a></li>
+        <li><a class="nav-link" href="#Brands">Brands</a></li>
+        <li><a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a></li>
+        <li><a class="nav-link" href="#For_sale">For sale</a></li>
+        <li><a class="nav-link" href="#History"> History</a></li>
+        <li><a class="nav-link" href="#Perfumes_apps">Perfumes apps</a></li>
+        <li><a class="nav-link" href="#Notes"> Notes</a></li>
+        <li><a class="nav-link"  href="#Forum">Forum</a></li>  
+        <li><a class="nav-link" href="#Reference">Reference</a></li>
+      <p></p>
+      </nav>
+<main id="main-doc">
+      
+      <section class="main-section" id="News">
+      <header>News</header>
+        <p><img src="https://www.fragrantica.com/news/Felisa-Born-In-Brazil-18111.html">Felisa: Born In Brazil</p>
+        <p><img src="https://www.fragrantica.com/news/Nissaba-from-Geneve-with-Amazing-Natural-Ingredients-18110.html">Nissaba from Geneve with Amazing Natural Ingredients</p>
+      </section>
+      <section class="main-section" id="Brands">
+    <header>Brands</header>
+        <p><code><li>Disagners</code></li></p>
+        <p><code><li>Nishe</li></code></p>
+      </section>
+      <section class="main-section" id="JavaScript_and_Java">
+        <header>JavaScript and Java</header>
+        <p></p>
+        <p><code></code></p>
+  </section>
+  <section class="main-section" id="For_sale">
+    <header>For sale</header>
+    <p></p>
+    <ol>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ol>
+   </section>
+  <section class="main-section" id="History">
+   <header>History</header>
+    <p></p>
+     <p><code></code></p>
+  </section>
+  <section class="main-section" id="Notes">
+    <header>Notes</header>
+    <p></p>
+     <p><code><li>CITRUS</li></code></p>
+     <p><code><li>FRUITS, VEGETABLES AND NUTS</li></code></p>
+     <p><code><li>FLOWERS</li></code></p>
+  </section>
+  <section class="main-section" id="Perfumes_apps">
+    <header>Perfumes apps</header>
+    <p></p>
+     <p><code><img src="https://www.ipsy.com/blog/how-to-apply-perfume#:~:text=Spray%20it%20onto%20your%20pulse%20points.&text=It's%20places%20like%20the%20inside,to%20naturally%20diffuse%20a%20scent.">
+     </code></p>
+  </section>
+  <section class="main-section" id="Forum">
+    <header>Forum</header>
+     <p><code></code></p>
+     <p></p>
+ </section>
+<section class="main-section" id="Reference">
+    <header>Reference</header>
+    <p></p>
+  </section>
+  
+     </main>
+      </body>
+     </html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+/* file: styles.css */
+#main{
+  background-color: rgb(120, 40, 55);
+  width: 100px;
+  height: 45px;
+}
+.nav{
+  position: absolute;
+  color: rgb(20, 20, 100)
+}
+@media (max-width: 120px){
+  .h1{
+    color: black;
+  }
+  .nav-bar{
+    float: left;
+  }
+}
+
+** end of undefined **
+
